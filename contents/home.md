@@ -1,4 +1,4 @@
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+My research interests lie in deploying robots within real-world, public space settings. I am interested in how social robots can be integrated into existing workflows within organisations to tackle concrete business problems, and not just to simply provide gratuitious interactions. 
 
 #### Email
 andrew.blair@glasgow.ac.uk
