@@ -1,13 +1,6 @@
-- National Scholarship of Graduate Student, 2024.
-
-- First-prize Scholarship of CUMT, 2024.
-
-- First-prize Scholarship of CUMT, 2023.
-
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- Rewarding Contribution for Tutoring, University of Glasgow, 2023-2024
+- Finalist, GRASS Robot Design Competition, ICSR 2023, Doha, Qatar, 4-7 December 2023
+- Most Outstanding Student (Highest GPA), Level 4 Honours, Software Engineering, Jun 2023
+- Winner/First place, GUTS Hackathon, Oct 2022
+- Most Outstanding Student (Highest GPA), Level 3 Honours, Software Engineering, Jun 2022
+- Dux (Highest GPA), Hermitage Academy, 2018

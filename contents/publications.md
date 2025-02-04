@@ -1,4 +1,5 @@
-- <strong>A. Blair</strong>, M.E Foster, and P. Gregory (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>Socially Intelligent Agent Applications @ Intelligent Virtual Agents.</strong>
+- <strong>A. Blair</strong>, M.E Foster, and P. Gregory (2024). Human-Centered Design of Social Robots: Addressing 
+Stakeholder Involvement to Enhance Long-Term Interaction Success <strong>Socially Intelligent Agent Applications @ Intelligent Virtual Agents.</strong>
 
 - M.E Foster, S. Ashkenazi, <strong>A. Blair</strong>, (2023). Including front-line workers as primary stakeholders in HRI. <strong>Worker Robot Relations @ International Conference on Human-Robot Interaction</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
 
