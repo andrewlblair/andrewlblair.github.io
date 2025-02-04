@@ -1,0 +1,6 @@
+- Lead System Administrator, Glasgow Interactive SysTems (GIST) Cluster, UofG
+- Graduate Representative, Strategic Advisory Board, College of Science and Engineering, UofG
+- Reviews:
+-- Human-Robot Interaction 2025
+-- International Conference on Social Robotics 2024
+-- Human-Agent Interaction 2024
