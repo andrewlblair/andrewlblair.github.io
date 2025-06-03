@@ -3,12 +3,25 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+  
+
+  <div style="display:flex;flex-direction:row;justify-content:space-between;align-items:center;margin-bottom:20px;flex-wrap:wrap;">
+    <div style="flex: 1 0 50%; min-width: 300px; box-sizing: border-box;">
+      <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+        <img style="border-radius:50%;width:400px;max-width:90vw;height:400px;max-height:90vw;object-fit:cover;" src="{{ site.baseurl }}/assets/andrew_crop.JPG" alt="cover">
+      </div>
+    </div>
+    <div style="flex: 1 0 50%; min-width: 300px; text-align:center; box-sizing: border-box;">
+      <h1>Andrew Blair</h1>
+      <h2>PhD Student in Social Robotics</h2>
+      <h2>University of Glasgow</h2>
+    </div>
+  </div>
+
+
 
   {{ content }}
-  <img src="{{ site.baseurl }}/assets/andrew_crop.JPG" alt="cover" style="width:40%;height:40%;">
+
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
@@ -32,3 +45,29 @@ layout: default
   {%- endif -%}
 
 </div>
+
+  <style>
+  @media (max-width: 700px) {
+    .home-flex-bio {
+      flex-direction: column !important;
+      align-items: center !important;
+    }
+    .home-flex-bio > div {
+      min-width: 0 !important;
+      width: 100% !important;
+    }
+    .home-flex-bio img {
+      width: 70vw !important;
+      height: 70vw !important;
+      max-width: 300px !important;
+      max-height: 300px !important;
+    }
+  }
+  </style>
+  <script>
+    // Add class for responsive styling
+    document.addEventListener("DOMContentLoaded", function() {
+      var flexDiv = document.currentScript.previousElementSibling.previousElementSibling;
+      flexDiv.classList.add("home-flex-bio");
+    });
+  </script>
