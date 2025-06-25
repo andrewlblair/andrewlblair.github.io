@@ -39,6 +39,16 @@ $on-laptop:        1200px !default;
   }
 }
 
+
+@include media-query($on-palm) {
+  .site-nav {
+    background-color: rgb(0, 56, 101) !important;
+  }
+  .menu-icon path {
+    color:#fdfdfd !important;
+  }
+}
+
 @mixin relative-font-size($ratio) {
   font-size: $base-font-size * $ratio;
 }

@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  "Open working! Shall we give it a go?"
 date:   2025-02-14 12:36:02 +0000
@@ -10,4 +10,4 @@ In an eye to share some of the work I am up to, and probably most importantly pr
 
 # Monday
 ![]({{ site.baseurl }}/assets/2025-02-14.jpg)
-
+ -->
