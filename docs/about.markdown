@@ -6,7 +6,7 @@ permalink: /publications/
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-Blair, A., Gregory, P., and Foster, M.E. (2025) A Blessing or a Burden? Exploring Worker Perspectives of Using a Social Robot in a Church. In: 2025 IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2025), Eindhoven, The Netherlands, 25-29 Aug 2025. [Paper link](/docs/exploring_worker_perspectives_blair_et_al_2025.pdf)
+Blair, A., Gregory, P., and Foster, M.E. (2025) A Blessing or a Burden? Exploring Worker Perspectives of Using a Social Robot in a Church. In: 2025 IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2025), Eindhoven, The Netherlands, 25-29 Aug 2025. [Paper link](/exploring_worker_perspectives_blair_et_al_2025.pdf)
 
 Blair, A., Foster, M. E.  and Gregory, P.  (2024) Human-Centered Design of Social Robots: Addressing Stakeholder Involvement to Enhance Long-Term Interaction Success. In: Socially Interactive Agent Applications Workshop in the 24th ACM International Conference on Intelligent Virtual Agents (IVA '24), Glasgow, UK, 16-19 Sep 2024. [Paper link](https://andrewblair.github.io/addressing_stakeholder_involvement_blair_et_al_2024.pdf)
 
