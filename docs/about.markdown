@@ -8,7 +8,7 @@ Blair, A., Gregory, P., and Foster, M.E. (2025) A Blessing or a Burden? Explorin
 
 Blair, A., Foster, M. E.  and Gregory, P.  (2024) Human-Centered Design of Social Robots: Addressing Stakeholder Involvement to Enhance Long-Term Interaction Success. In: Socially Interactive Agent Applications Workshop in the 24th ACM International Conference on Intelligent Virtual Agents (IVA '24), Glasgow, UK, 16-19 Sep 2024. [Paper link](/papers/addressing_stakeholder_involvement_blair_et_al_2024.pdf)
 
-Foster, M. E. et al. (2024) Including Front-Line Workers as Primary Stakeholders in Public-Space HRI. 1st International Workshop on WRRs - Exploring Transdisciplinary Perspectives on Robotic Futures, Boulder, CO, USA, 11 Mar 2024. [Paper link](https://drive.google.com/file/d/1ITL2tnZ1wJR2Zq6AdxcHZHRPIdgoLcU7/view)
+Foster, M. E. et al. (2024) Including Front-Line Workers as Primary Stakeholders in Public-Space HRI. 1st International Workshop on WRRs - Exploring Transdisciplinary Perspectives on Robotic Futures, Boulder, CO, USA, 11 Mar 2024. [Paper link](/papers/including_frontline_workers_foster_et_al_2024.pdf)
 
 Blair, A. and Foster, M. E. (2023) Real-World Evaluation of a University Guidance and Information Robot. In: 15th International Conference on Social Robotics (ICSR 2023), Doha, Qatar, 3-7 Dec 2023. [doi: 10.1007/978-981-99-8718-4_17](http://dx.doi.org/10.1007/978-981-99-8718-4_17)
 
