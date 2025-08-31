@@ -1,7 +1,7 @@
 ---
 layout: page
 title: St Giles Research Study
-permalink: /stgiles/
+permalink: /stgilesthistle/ ## change this to stgiles upon deployment so the qr code stays the same
 ---
 
 In collaboration with the University of Glasgow, St Giles’ Cathedral is trialling a social robot within the cathedral. We are exploring how it can support and augment the great work already done here by staff and volunteers.
@@ -13,9 +13,9 @@ By entering the Thistle Chapel, you are consenting to your image being processed
 
 By interacting with the robot, you are consenting to:
 - The transcription of your conversation with the robot being saved and analysed for research purposes only.
-- Your interaction being observed by a researcher who is present within the Thistle Chapel
+- Your interaction being observed by a researcher who is present within the Thistle Chapel.
 
-This research study was approved by the University of Glasgow Ethics Committee, Study XXX. Findings from this study may be shared in scientific papers, conference publications or posters related to social robots.
+This research study was approved by the University of Glasgow Ethics Committee, Study #300240230. Findings from this study may be shared in scientific papers, conference publications or posters related to social robots.
 If you do not wish to be included in this study, please do not interact with the robot or enter the Thistle Chapel, and return to the rest of the Cathedral.
 
 # Contact Information
