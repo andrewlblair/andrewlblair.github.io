@@ -13,7 +13,7 @@ By interacting with the robot, you are consenting to:
 For your privacy, no audio or video is being recorded or stored. All data is processed securely on the robot and on University of Glasgow servers.
 
 This research study was approved by the University of Glasgow Ethics Committee, Study #300240098. Findings from this study may be shared in scientific papers, conference publications or posters related to social robots.
-If you do not wish to be included in this study, please do not interact with the robot or enter the Thistle Chapel, and return to the rest of the Cathedral.
+If you do not wish to be included in this study, please do not interact with the robot and return to the rest of the Cathedral.
 
 # Contact Information
 If you have any questions about this research study, please either speak to a member of staff, or email us:
