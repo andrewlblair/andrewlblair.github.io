@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-Blair, A., Gregory, P., and Foster, M.E. (2025) Observations of atypical users from a pilot deployment of a public-space social robot in a church. In: 2025 Real-World HRI in Public and Private Spaces: Successes, Failures, and Lessons Learned (PubRob-Fails 2025), Eindhoven, The Netherlands, 29 Aug 2025. [Paper link](/papers/atypical_users_blair_et_al_2025.pdf)
+Blair, A., Gregory, P., and Foster, M.E. (2025) Observations of atypical users from a pilot deployment of a public-space social robot in a church. In: 2025 Real-World HRI in Public and Private Spaces: Successes, Failures, and Lessons Learned (PubRob-Fails 2025), Eindhoven, The Netherlands, 29 Aug 2025. [Paper link](https://arxiv.org/abs/2508.16622)
 
 Blair, A., Gregory, P., and Foster, M.E. (2025) A Blessing or a Burden? Exploring Worker Perspectives of Using a Social Robot in a Church. In: 2025 IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2025), Eindhoven, The Netherlands, 25-29 Aug 2025. [Paper link](https://arxiv.org/abs/2507.22903)
 
