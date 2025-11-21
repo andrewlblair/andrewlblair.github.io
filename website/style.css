@@ -1,7 +1,10 @@
 /* Basic Reset */
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body { font-family: fc, sans-serif; line-height: 1.6; color: #fff; 
-      background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(plane.jpg);background-position: center top; background-size: cover; /* make it taller than viewport */
+      
+    }
+    html {
+        background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(plane.jpg);background-position: center top; background-size: cover;
     }
     a { color: #4af626; text-decoration: none; }
     a:hover { text-decoration: underline; }
