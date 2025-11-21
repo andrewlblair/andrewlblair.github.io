@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Andrew Blair</title>
+  <style>
+    /* Basic Reset */
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: fc, sans-serif; line-height: 1.6; color: #fff; 
+      background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(plane.jpg);background-position: center top; background-size: cover; /* make it taller than viewport */
+    }
+    a { color: #1a73e8; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    
+    
+    /* Layout */
+    .container { max-width: 800px; margin: 0 auto; padding: 0px 20px; }
+    section { padding: 10px 0; }
+    h1 { font-size: 2.5rem; font-weight: 700; margin-bottom: 10px; }
+    h2 { font-size: 1.8rem; font-weight: 600; margin-bottom: 20px; }
+    p { margin-bottom: 15px; }
+    
+    /* Header */
+    .header { text-align: center; }
+    .header img { width: 300px; height: 300px; margin-bottom: 20px; border-radius: 50%;}
+    .header .tagline { font-style: italic; color: #fff; }
+
+       /* Lists */
+
+    li { margin-bottom: 10px; }
+
+    /* Contact links */
+    .contact a { margin-right: 15px; font-weight: 600; }
+
+    /* Footer */
+    footer { text-align: center; font-size: 0.9rem; color: #fff; padding-top: 40px; }
+    
+    /* Responsive */
+    @media (max-width: 600px) {
+      h1 { font-size: 2rem; }
+      h2 { font-size: 1.5rem; }
+      .header img { width: 80px; height: 80px; }
+    }
+
+    @font-face {
+      font-family: fc;
+      src: url(Gridnik\ Regular.ttf);
+    }
+
+    .navbar {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      padding-bottom:0px;
+      display:flex;
+      justify-content:right;
+    }
+
+    .navbar li a {
+      display: block;
+      color: white;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+
+    .navbar li a:hover {
+      background-color: #111111;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+
+    <ul class="navbar">
+      <li class="navbar"><a href="index.html">Home</a></li>
+      <li class="navbar"><a href="publications.html">Publications</a></li>
+      <li class="navbar"><a href="projects.html">Projects</a></li>
+      <li class="navbar"><a href="cv.html">CV</a></li>
+    </ul> 
+    
+    
+    
+    <!-- Header -->
+    <section class="header">
+      <img src="andrew_crop.JPG" alt="Andrew Blair">
+      <h1>Andrew Blair</h1>
+      <p>PhD Student, Social Robotics @ University of Glasgow</p>
+      <p class="tagline">Organisational Design and Integration of Social Robots</p>
+    </section>
+
+    <!-- Bio -->
+    <section>
+      <h2>Bio</h2>
+      <p>I am a PhD student in Computing Science at the University of Glasgow, supervised by Dr. Mary Ellen Foster and Dr. Peggy Gregory. 
+        My research interests lie in deploying robots within meaningful real-world settings. 
+        I am interested in how social robots can be integrated into existing workflows within organisations to tackle concrete business problems, and not just to simply provide gratuitous interactions. 
+        I seek to understand how we can better design social robots for public spaces through human-centric design processes and wide stakeholder engagement.</p>
+    </section>
+
+    <!-- Publications -->
+    <section>
+      <h2>Selected Publications</h2>
+      <ul>
+        <li><a href="https://doi.org/10.1109/RO-MAN63969.2025.11217840">A Blessing or a Burden? Exploring Worker Perspectives of Using a Social Robot in a Church, 2025</a></li>
+        <li><a href="">Addressing Stakeholder Involvement to Enhance Long-Term Interaction Success, 2024</a></li>
+        <li><a href="http://dx.doi.org/10.1007/978-981-99-8718-4_17">Real-World Evaluation of a University Guidance and Information Robot, 2023</a></li>
+      </ul>
+      <p><a href="https://scholar.google.com/citations?user=2Eo6cY8AAAAJ&hl=en">See all publications → Google Scholar</a></p>
+    </section>
+
+
+    <!-- Contact -->
+    <section>
+      <h2>Contact</h2>
+      <p class="contact">
+        <a href="mailto:Andrew.Blair@glasgow.ac.uk">Andrew.Blair@glasgow.ac.uk</a>
+        <a href="https://orcid.org/0000-0000-0000-0000" target="_blank">ORCID</a>
+        <a href="https://scholar.google.com/citations?user=XXXX" target="_blank">Google Scholar</a>
+        <a href="https://github.com/johndoe" target="_blank">GitHub</a>
+      </p>
+    </section>
+
+    <footer>
+      © 2025 John Doe
+    </footer>
+  </div>
+
+</body>
+</html>
