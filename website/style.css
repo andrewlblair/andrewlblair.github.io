@@ -62,8 +62,19 @@
     }
 
     .navbar #img {
-        padding: 0 16px;
+        padding-right:20px;
+        padding-top:0px;
+        padding-bottom:0px;
+        padding-left:16px;
+       
     }
+
+    #nav {
+      margin-left:-20px;
+      margin-right:-20px;
+    }
+
+
 
     .navbar li a:hover {
       background-color: #111111;
