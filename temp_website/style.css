@@ -1,0 +1,15 @@
+@font-face {
+      font-family: gd;
+      src: url(Gridnik\ Regular.ttf);
+    }
+
+body {
+    font-family: gd;
+    font-weight:400;
+    background-color: black;
+    color:white;
+}
+
+a {
+    color: #4af626;
+}
