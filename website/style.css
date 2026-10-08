@@ -6,8 +6,8 @@
 body {
     font-family: gd;
     font-weight:400;
-    background-color: black;
-    color:white;
+    background-color: #C7C7C7;
+    color:#000000;
     
 }
 
@@ -20,7 +20,7 @@ body {
 }
 
 a {
-    color: #4af626;
+  
 }
 
 /* Tooltip container */
@@ -56,10 +56,9 @@ a {
     /* Header */
     .header { text-align: center; }
   
-    .header .tagline { font-style: italic; color: #fff; }
+    .header .tagline { font-style: italic; color: #000000; }
 
        /* Lists */
-
     li { margin-bottom: 10px; }
     ul { list-style-type: none;}
 
@@ -68,4 +67,4 @@ a {
     .nav a { margin-right: 10px; font-weight: 600; }
 
     /* Footer */
-    footer { text-align: center; font-size: 0.9rem; color: #fff; padding-top: 40px; padding-bottom:10px;}
+    footer { text-align: center; font-size: 0.9rem; color: #000000; padding-top: 40px; padding-bottom:10px;}
